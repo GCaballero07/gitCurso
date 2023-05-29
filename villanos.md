@@ -1,3 +1,3 @@
-Tanos
-Octopus
+Thanos
+Dr. Octavius
 Duende Verde
