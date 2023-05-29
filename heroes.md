@@ -5,3 +5,4 @@ Capitan America
 Thor
 Hulk
 Rocket Raccoon
+Dr. Strange
